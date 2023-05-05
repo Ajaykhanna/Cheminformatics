@@ -1,0 +1,176 @@
+################# ACADEMIC LICENSE ##################################
+#                                                                   #
+#   This file is a license for OpenEye Scientific Software.  Any    #
+#   modifications to this file may invalidate the license.          #
+#                                                                   #
+#   The Laboratory of Christine Isborn                              #
+#   University of California, Merced                                #
+#                                                                   #
+#   Wed Mar 30 11:40:07 2022                                        #
+#####################################################################
+#PRODUCT: bioisostere
+#EXP_DATE: 2023 04 01
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: c5b1c87f41a52aec48c3f628fad1c1f940a7edbdd60a49e3b79a3232aa2b9d5e
+#PRODUCT: docking
+#EXP_DATE: 2023 04 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: ed8a2a67b99f6f3e57cef7921dea89da4d9ad7d7e0e7a0aab9e450072dc8da08
+#PRODUCT: eon
+#EXP_DATE: 2023 04 01
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: d6e3e9281acb7e6561ab7993772d1ed6c5a6edb0d6ad0aa5f7321aefcedc8ce9
+#PRODUCT: fastrocs
+#EXP_DATE: 2023 04 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: 34da48306a7d7bd24f0131440a1935c26ace925e51c6fe264bf046a8372c708e
+#PRODUCT: filter
+#EXP_DATE: 2023 04 01
+#FEATURES: toolkit;python;java;clr
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: a383574b6156beada7a55c109463acb92adb5176215435d37d01afd1af1b3b49
+#PRODUCT: fred2
+#EXP_DATE: 2023 04 01
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: df421d9b66ca26589f29fba906335f647507cc23f7935314839730ca0113b925
+#PRODUCT: grapheme
+#EXP_DATE: 2023 04 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: 26a4086e30437565393cd1d5a87ebf52ebead90745109efd34301b9be18fcc9a
+#PRODUCT: graphsim
+#EXP_DATE: 2023 04 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: 0fe13f12a778e2d11116d3841fbc7e97236dfde76818d3dfde6038f26d0d9508
+#PRODUCT: iupac
+#EXP_DATE: 2023 04 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: f8ad61d67960cd814301c3d81191394f2963c90ef67dda124725028451eaaf44
+#PRODUCT: oechem
+#EXP_DATE: 2023 04 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: e2d0b29700418b6cab905421f7373b1f49b4a4f93ed101ee1dad1f8ee7c6dc11
+#PRODUCT: oedepict
+#EXP_DATE: 2023 04 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: 4513bc1eb96e2f6fa2d3de4ee3ef86c4e139f198ad81cd5cf7de04e933dce07b
+#PRODUCT: oemedchem
+#EXP_DATE: 2023 04 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: af9532d86c8b69c0b6fdb5c396f7145f423827c7604a820b0fbb3aaa4d8d9388
+#PRODUCT: omega
+#EXP_DATE: 2023 04 01
+#FEATURES: gas-phase;toolkit;python;java;clr
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: 87f85bbf3610058d395c1ebb57d86f98d77ed30971c788b22ee0cbc7cd317c85
+#PRODUCT: omega-db
+#EXP_DATE: 2023 04 01
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: 10239ee99da3da197df748647d96be317bb5132afcd2e8514c4311fcbe0ff7d1
+#PRODUCT: posit
+#EXP_DATE: 2023 04 01
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: 4a2dddf9905adcd67be20fcd4d90ba9461d607dd8204cf2eb20e6a58f7d6ac01
+#PRODUCT: quacpac
+#EXP_DATE: 2023 04 01
+#FEATURES: beta;python;java;clr
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: 771cdd0896b1c3cf7f60a5d4a96f41f3b9c36ed2d8e4472b4d9b2b878035a156
+#PRODUCT: rocs
+#EXP_DATE: 2023 04 01
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: d74fa4c727ebcbcb356f4a0b146dbe858e2f2eb8a8b89fa8ed717cd647044863
+#PRODUCT: shape
+#EXP_DATE: 2023 04 01
+#FEATURES: molecules;grids;python;java;clr
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: 8886c0a3c41d6e69740460158260b339caf29bc4055e85633fde0ffeeac8b6a7
+#PRODUCT: sitehoppertk
+#EXP_DATE: 2023 04 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: 4eff56d25fd88e2f59db90a737aca8df2179f5cb5301f2f5a376aadf4fbcd7a3
+#PRODUCT: sitehopper
+#EXP_DATE: 2023 04 01
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: ee15da92bf7edbc1a44b869027cfbe1145781a922156b06965c311cb080c576e
+#PRODUCT: spicoli
+#EXP_DATE: 2023 04 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: cb3abea6faa36b6a575ef0b9f11ba373a959f61922d7c0b36b2f5837dc42b220
+#PRODUCT: sprucetk
+#EXP_DATE: 2023 04 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: 1689923b0e83f66762cd93f40e739b51147752cdc2cdb3d7c26dcd72093b08a9
+#PRODUCT: spruce
+#EXP_DATE: 2023 04 01
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: dac0ce71bfd76f17c094c3a57303206d45206b34fb2d5bb776fe8bb5d3c5e930
+#PRODUCT: szmap
+#EXP_DATE: 2023 04 01
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: 48625764e215b90e2c82ad0b2c9dcd5e3a68d1078bbe5a20adbc02856dfb6814
+#PRODUCT: szmaptk
+#EXP_DATE: 2023 04 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: c1d96ba2925d91acaf5f0d97495846d52c59177d0a9926614b0db4cd44b80731
+#PRODUCT: szybki
+#EXP_DATE: 2023 04 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: ce6460c75c2860891e88ed4d1c39b265ee03a4500857c6df6962ba52879195d4
+#PRODUCT: case
+#EXP_DATE: 2023 04 01
+#FEATURES: python;java;clr
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: 623297cf764879ebcffa88e24a442668e2ae7f3bc1d3b6ddb461f77ce8573d25
+#PRODUCT: vida
+#EXP_DATE: 2023 04 01
+#FEATURES: script line
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: 00f3350b3d727169126fb8d4575e9640f7ff2910a5c37a38517a6ef5ecb70a64
+#PRODUCT: zap
+#EXP_DATE: 2023 04 01
+#FEATURES: basic toolkit;protein pka;perfect charge;python;java;clr
+#LICENSEE: The Laboratory of Christine Isborn
+#SITE: University of California, Merced
+LICENSE_KEY: b9aa8003337ae812d1d4631f0a9934b053fc0543b1df132d215b802759342e31
+

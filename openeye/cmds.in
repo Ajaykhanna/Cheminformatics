@@ -1,0 +1,2 @@
+# 1. Convert XYZ structure to SVG/PNG Using OpenEye
+python mol2img.py -in cv.xyz -out cv.svg -superdisp All -aromstyle Kekule -titleloc Hidden -linewidth 2
