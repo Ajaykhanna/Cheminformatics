@@ -1,0 +1,14 @@
+# How to Run?: cpptraj -i get_distance_coms.inp
+# Calculate the distance between COM of Dye-1 and Dye-2 in the same box
+parm system.prmtop
+trajin trajtory.mdcrd
+# :1-->Residue-1 & :2-->Residue-2
+# d1-->Name of Dataset
+distance com_array :1 :2 out com_distance.dat
+go
+quit
+
+# If you want to get the distance between Atoms of Residues, do this
+# distance d1 :25@Cu1 :21@P out distance1.dat
+# Cu1: Name of Atom on Residue#25
+# P: Name of Atom on Residue#21
