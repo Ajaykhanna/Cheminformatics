@@ -1,3 +1,3 @@
-# How to Run?: bash merge_trajectories.sh
-# 
-cpptraj -p myparm.parm7 -y traj1.crd -y traj2.crd -y traj3.crd -y traj4.crd -x combined.nc
+# How to Run?: bash merge_trajectories.sh $1 $2 $3 $4 $5 $6
+# $1: prmtop, $2: trajectory files
+cpptraj -p $1 -y $2 -y $3 -y $4 -y $5 -x $6
