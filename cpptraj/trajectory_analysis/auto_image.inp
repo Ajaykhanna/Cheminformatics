@@ -1,0 +1,11 @@
+# How to Run?: cpptraj -i auto_image.inp
+# Input file to Autoimage/Center/Image Amber Trajectory File
+# This procedure select the longest molecule in the system and image the
+# rest of the environment around it.
+# One can provide custom index or residue index to avoid default
+# Autoimagin
+parm amber.prmtop
+trajin traj.mdcrd
+autoimage
+# or autoimage anchor :37-460 (Residues: 37-460 or Resid)
+trajout min.nc netcdf
