@@ -5,10 +5,9 @@ I'm a passionate computational chemist with cheminformatics expertise. I am dedi
 - **Languages:** Python, C++
 - **Cheminformatics Tools:** RDKit, Open Babel, OEChem, and Cpptraj
 - **Databases:** PubChem, ChEMBL
-- 
+
 # Cheminformatics
 A set of tutorial for applying cheminformatics techniques in Virtual Screening, Similarity Search, Conformer generating and High quality figure for presentation.
-Software used are: RDkit, Obabel and OEChem
 
 ## 📚 Recent Projects:
 - [Project Name with link](#) - Will be added soon.
