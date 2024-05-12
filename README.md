@@ -10,8 +10,9 @@ I'm a passionate computational chemist with cheminformatics expertise. I am dedi
 A set of tutorial for applying cheminformatics techniques in Virtual Screening, Similarity Search, Conformer generating and High quality figure for presentation.
 
 ## 📚 Recent Projects:
-- [Project Name with link](#) - Will be added soon.
-- [Another Project](#) - Working on it.
+- [🔍 Molecular Similarity Search with RDKit](https://github.com/Ajaykhanna/Cheminformatics/blob/main/rdkit/tanimoto_similarity_search.py).
+- [🧪 Chemical Descriptor Computation with RDKit](https://github.com/Ajaykhanna/Cheminformatics/blob/main/rdkit/prescreening_with_rdkit.ipynb).
+- [🧬 Clustering Conformers with RDKit](https://github.com/Ajaykhanna/Cheminformatics/blob/main/rdkit/Clustering_conformers_wth_RdKit.ipynb)
 
 ## 📘 Tutorials:
 I believe in sharing knowledge. Check out my tutorials on RDKit applications in cheminformatics!
@@ -27,7 +28,7 @@ $$
 
 - [🧪 Chemical Descriptor Computation with RDKit](https://github.com/Ajaykhanna/Cheminformatics/blob/main/rdkit/prescreening_with_rdkit.ipynb) : Transforming Molecular Structures into Meaningful Numerical Descriptors!. Chemical descriptors play a crucial role in cheminformatics by translating molecular structures into numerical values, these descriptors become the foundation for many machine learning and deep learning models. Such models aim to predict chemical properties and facilitate the drug discovery process by efficiently navigating the vast chemical space. The code below uses the RDKit library to compute a series of common chemical descriptors for a given list of molecules represented as SMILES strings.
 
-- [🧬 Clustering Conformers with RDKit](https://github.com/Ajaykhanna/Cheminformatics/blob/main/rdkit/Clustering_conformers_wth_RdKit.ipynb) : Discover the Power of Conformer Clustering for Molecular Analysis!. Molecular conformers represent different spatial arrangements of atoms in a molecule, arising due to the rotation around single bonds. Clustering these conformers is essential in understanding the conformational landscape of molecules. This tutorial leverages RDKit's capabilities to generate, align, and cluster conformers, providing insights into the structural diversity of a molecule. Such understanding is critical for applications like drug design and molecular simulations.
+- [🧬 Clustering Conformers with RDKit](https://github.com/Ajaykhanna/Cheminformatics/blob/main/rdkit/Clustering_conformers_wth_RdKit.ipynb): Discover the Power of Conformer Clustering for Molecular Analysis!. Molecular conformers represent different spatial arrangements of atoms in a molecule, arising due to the rotation around single bonds. Clustering these conformers is essential in understanding the conformational landscape of molecules. This tutorial leverages RDKit's capabilities to generate, align, and cluster conformers, providing insights into the structural diversity of a molecule. Such understanding is critical for applications like drug design and molecular simulations.
 
 ## 📫 Get in Touch:
 - LinkedIn: [Ajay Khanna](https://www.linkedin.com/in/ajay-khanna/)
